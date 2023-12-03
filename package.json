@@ -12,6 +12,7 @@
   "devDependencies": {
     "@nuxt/devtools": "latest",
     "@nuxtjs/tailwindcss": "^6.10.1",
+    "dayjs": "^1.11.10",
     "nuxt": "^3.8.2",
     "nuxt-icon": "^0.6.6",
     "vue": "^3.3.8",

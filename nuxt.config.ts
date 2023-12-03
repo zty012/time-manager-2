@@ -2,4 +2,9 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ["@nuxtjs/tailwindcss", "nuxt-icon"],
+  imports: {
+    addons: {
+      vueTemplate: true,
+    },
+  },
 });
